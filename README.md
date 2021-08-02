@@ -1,6 +1,6 @@
 # Covid-Vaccine-Slot
 
-#how-to-run
+# how-to-run
 * make sure all file should be on same folder
 * change the path according to your file location
 
